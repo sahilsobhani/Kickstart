@@ -22,14 +22,14 @@ A simple and interactive Bash script to generate a clean boilerplate for machine
 
 ### 1. Clone the repo and make the script executable:
 ```bash
-git clone https://github.com/yourusername/ml-project-generator.git
-cd ml-project-generator
-chmod +x generate_ml_project.sh
+git clone https://github.com/yourusername/Kickstart.git
+cd Kickstart
+chmod +x generate.sh
 ```
 
 ### 2. Run the script:
 ```bash
-./generate_ml_project.sh
+./generate.sh
 ```
 
 Follow the prompts to:
