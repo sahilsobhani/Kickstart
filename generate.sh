@@ -93,6 +93,7 @@ numpy
 pandas
 scikit-learn
 matplotlib
+torch
 EOL
 
 if [[ "$INCLUDE_TORCH" == "y" || "$INCLUDE_TORCH" == "Y" ]]; then
