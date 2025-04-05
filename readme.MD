@@ -61,7 +61,7 @@ my_ml_project/
 
 ## Requirements
 
-- Unix/Linux/macOS shell
+- Unix/Linux/macOS shell/Command Line
 - Python 3.6+
 - `bash`, `git`, and `virtualenv`/`venv` available
 
